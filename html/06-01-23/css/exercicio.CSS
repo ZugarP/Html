@@ -1,0 +1,10 @@
+body{
+    background-size: 1980px 938px;
+    background-repeat: no-repeat;
+    background-image:url(R.jfif);
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
