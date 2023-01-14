@@ -1,0 +1,25 @@
+.fundo{
+    background-color: black;
+    color:red;
+    height: 300px;
+    
+}
+.bordas{
+    border-radius: 15px;
+}
+.imagem{
+    widows: 300px;
+}
+.corbotao{
+    color:whitesmoke;
+    background-color: blue;
+}
+.tamanho{
+ height: 150px;
+}
+.corfundo{
+    background-color: rgb(248,249,250);
+}
+.remover{
+    text-decoration: none;
+}
